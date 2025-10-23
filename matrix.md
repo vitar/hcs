@@ -94,4 +94,4 @@ This document contains definitions and purpose explanations for each element in 
 | **Interdependence**              | Task relationships       | Responsibility        | Outcome reflection   | Coordination              | Local decision-making |
 | **Communication**                | Language / Terms         | Social contract       | Signal/response      | Clarity in interaction    | Permission to act     |
 | **Trust**                        | Meaning consistency      | Reliability           | Safety in feedback   | Delegation                | Empowerment           |
-| **Change** **/** **Uncertainty** | Scenario awareness       | Resilience            | Learning from change | Flexibility               | Adaptability          |
+| **Change/Uncertainty tolerance** | Scenario awareness       | Resilience            | Learning from change | Flexibility               | Adaptability          |
