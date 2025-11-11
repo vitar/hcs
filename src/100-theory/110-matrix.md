@@ -1,5 +1,9 @@
 # The Human Work System Matrix
 
+!!! warning "DRAFT VERSION"
+    This document is a **working draft** of the *Human Work System Framework (HWSF)*.<br/>
+    Content, terminology, and structure are **subject to revision**.
+
 **Work exists because of interdependence** — when one person alone can’t or doesn’t want to do everything, *work becomes a shared system of value exchange*.
 
 If one person could do everything alone, work would be **pure autonomy**.

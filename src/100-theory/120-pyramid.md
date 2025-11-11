@@ -1,5 +1,9 @@
 # The Human Work System Pyramid
 
+!!! warning "DRAFT VERSION"
+    This document is a **working draft** of the *Human Work System Framework (HWSF)*.<br/>
+    Content, terminology, and structure are **subject to revision**.
+
 - **Bottom** = prerequisites for any work between humans to even exist.
 - **Middle** = stable functions that turn those prerequisites into coordinated effort.
 - **Top** = practices, frameworks, and optimizations that refine or expand what’s possible.

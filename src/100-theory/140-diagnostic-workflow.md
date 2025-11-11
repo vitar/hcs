@@ -1,5 +1,9 @@
 # Diagnostic Workflow (Observation → Matrix → Level → Function → Practice)
 
+!!! warning "DRAFT VERSION"
+    This document is a **working draft** of the *Human Work System Framework (HWSF)*.<br/>
+    Content, terminology, and structure are **subject to revision**.
+
 Use this quick loop on any observed issue:
 
 1. **Observation (evidence)**

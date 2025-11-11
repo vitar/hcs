@@ -1,5 +1,9 @@
 # The Level Rule
 
+!!! warning "DRAFT VERSION"
+    This document is a **working draft** of the *Human Work System Framework (HWSF)*.<br/>
+    Content, terminology, and structure are **subject to revision**.
+
 Before changing *practices* (Level 4), verify and stabilize lower levels:
 
 1. **Level 1 – Preconditions** (Common Purpose, Interdependence, Communication, Trust, Change/Uncertainty tolerance) must be present enough for collaboration to exist at all.
