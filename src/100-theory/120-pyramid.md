@@ -22,7 +22,7 @@ Examples:
 ## Level 2 – Core Human Needs for Collaborative Work
 
 These are the *human-level enablers* that make foundational conditions workable day-to-day.<br/>
-This is essentially **Horizontal Axis** in the [Matrix](matrix.md).
+This is essentially **Horizontal Axis** in the [Matrix](110-matrix.md).
 
 Examples:
 
@@ -37,7 +37,7 @@ Examples:
 ## Level 3 – Work System Functions
 
 Stable **functions** that translate human needs into **coordinated, repeatable work**.<br/>
-These live in the 25 [matrix](matrix.md) cells and define what must happen for collaboration to succeed.
+These live in the 25 [matrix](110-matrix.md) cells and define what must happen for collaboration to succeed.
 
 Examples:
 
@@ -89,9 +89,9 @@ Includes:
 |:---|:---|:---|:---|
 | **5 (Apex)** | Meta-Practices & Innovation | <ul><li>Designing custom playbooks</li><li>Inventing new practices</li><li>Matching practices to functions deliberately</li><li>Coaching others in system thinking</li></ul> | Teams consciously reflect on, adapt, and redesign their way of working. Practices are tailored, combined, or invented to better serve needs. Knowledge is shared to elevate the whole system. |
 | **4** | Practices & Frameworks | <ul><li>Retrospectives (*Monitoring & Feedback*)</li><li>RACI matrix (*Distribution of Roles*)</li><li>Scrum sprint planning (*Planning & Prioritization*)</li><li>JTBD interviews (*Problem Discovery*)</li><li>Kanban (*Flow & Focus + Monitoring & Feedback*)</li></ul> | Specific, evolving methods that fulfill stable functions. Practices change over time, but the function they serve remains stable. |
-| **3** | Work System Functions | <ul><li>Problem Discovery (*Clarity of Problem Space × Shared Understanding*)</li><li>Planning & Prioritization (*Interdependence × Distribution of Roles*)</li><li>Monitoring & Feedback (*Communication × Feedback Loops*)</li><li>Enablement & Empowerment (*Trust × Autonomy & Agency*)</li><li>Adaptation & Learning (*Change × Feedback Loops*)</li></ul> | The stable “muscles” of collaboration — what must happen for work to succeed. Represented by the 25 cells in the [Human Work System Matrix](matrix.md). |
-| **2** | Core Human Needs for Collaborative Work | <ul><li>Shared Understanding</li><li>Mutual Commitment</li><li>Feedback Loops</li><li>Distribution of Roles</li><li>Autonomy & Agency</li></ul> | The human-level enablers that make foundational conditions operational. Corresponds to the [Matrix’s](matrix.md) **horizontal axis.** |
-| **1 (Foundation)** | Preconditions for Collaboration | <ul><li>Common Purpose</li><li>Interdependence</li><li>Communication</li><li>Trust</li><li>Change/Uncertainty tolerance</li></ul> | The existential conditions for collaboration to exist at all. Corresponds to the [Matrix’s](matrix.md) **vertical axis**. Without these, there is no “working together.” |
+| **3** | Work System Functions | <ul><li>Problem Discovery (*Clarity of Problem Space × Shared Understanding*)</li><li>Planning & Prioritization (*Interdependence × Distribution of Roles*)</li><li>Monitoring & Feedback (*Communication × Feedback Loops*)</li><li>Enablement & Empowerment (*Trust × Autonomy & Agency*)</li><li>Adaptation & Learning (*Change × Feedback Loops*)</li></ul> | The stable “muscles” of collaboration — what must happen for work to succeed. Represented by the 25 cells in the [Human Work System Matrix](110-matrix.md). |
+| **2** | Core Human Needs for Collaborative Work | <ul><li>Shared Understanding</li><li>Mutual Commitment</li><li>Feedback Loops</li><li>Distribution of Roles</li><li>Autonomy & Agency</li></ul> | The human-level enablers that make foundational conditions operational. Corresponds to the [Matrix’s](110-matrix.md) **horizontal axis.** |
+| **1 (Foundation)** | Preconditions for Collaboration | <ul><li>Common Purpose</li><li>Interdependence</li><li>Communication</li><li>Trust</li><li>Change/Uncertainty tolerance</li></ul> | The existential conditions for collaboration to exist at all. Corresponds to the [Matrix’s](110-matrix.md) **vertical axis**. Without these, there is no “working together.” |
 
 This structure makes it easy to trace a problem from the bottom up:
 
