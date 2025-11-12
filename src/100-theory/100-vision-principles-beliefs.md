@@ -63,4 +63,4 @@ Together, they form a continuum:
 
 ---
 
-*This page serves as the philosophical foundation for all other HCS sections — the Pyramid, Matrix, and Diagnostic Workflow each elaborate these principles in context.*
+*Vision, Principles, and Beliefs serves as the philosophical foundation for all other HCS sections — the Pyramid, Matrix, and Diagnostic Workflow each elaborate these principles in context.*
