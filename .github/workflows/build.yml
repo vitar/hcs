@@ -68,7 +68,7 @@ jobs:
           # keep your existing pip installs elsewhere as-is
           pip install mkdocs-to-pdf "weasyprint>=52"
 
-      - name: Build HWSF site and PDF
+      - name: Build site and PDF
         run: |
           if [ ! -d dist/site ]; then
             mkdocs build --strict -f mkdocs.yml --site-dir dist/site
