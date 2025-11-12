@@ -104,9 +104,9 @@ Examples of Level 5 behavior include designing custom meta-frameworks such as **
 
 ## Pyramid View – Start & Top
 
-!!! tip "Always climb levels in order"
-    Don’t patch Level 4 **practices** when Level 1–2 **preconditions or human needs** are weak.<br/>
-    Fix lower levels first — then revisit practices.
+> **Always climb levels in order**<br/>
+> Don’t patch Level 4 **practices** when Level 1–2 **preconditions or human needs** are weak.<br/>
+> Fix lower levels first — then revisit practices.
 
 Each level introduces a qualitatively new kind of stability.<br/>
 Progression is not linear but recursive — feedback from higher levels refines lower ones, creating a self-correcting system.
