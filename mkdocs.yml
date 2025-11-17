@@ -58,10 +58,15 @@ nav:
     - 200-extended-model/250-integration-guide.md
   - SYSTEM MODES:
     - SETUP MODE:
+      - 300-setup-mode/300-intro-purpose.md
     - STABILIZATION MODE:
+      - 400-setup-mode/400-intro-purpose.md
     - GROWTH MODE:
+      - 500-setup-mode/500-intro-purpose.md
     - CONFLICT MODE:
+      - 600-setup-mode/600-intro-purpose.md
     - RESET MODE:
+      - 700-setup-mode/700-intro-purpose.md
   - REFERENCE:
     - 800-reference/820-glossary.md
     - 800-reference/830-sources-and-frameworks.md
