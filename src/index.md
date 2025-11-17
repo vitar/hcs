@@ -123,9 +123,6 @@ HCS expresses these as **modes**:
 Each mode applies the Core Model differently depending on what the system needs  
 — **design**, **repair**, **evolution**, **restoration**, or **renewal**.
 
-In HCS v2.0, **Stabilization Mode** contains the full diagnostic workflow.  
-Other modes introduce conceptual foundations and will expand in future versions.
-
 # Reading Path
 
 ### **Start with the Core Model**
