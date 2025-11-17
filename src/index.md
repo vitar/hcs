@@ -74,7 +74,7 @@ Together, these form the **Systemic Basis of Work** — a way to understand and 
 
 HCS is organized into three architectural layers:
 
-## **Core Model — The Physics of Cooperation**
+## Core Model — The Physics of Cooperation
 
 The Core Model defines the stable, universal architecture of cooperation.
 
@@ -91,7 +91,7 @@ This includes:
 
 This layer is **framework-independent** and applies to all forms of human work.
 
-## Extended Human Dynamics — Real-World Complexity**
+## Extended Human Dynamics — Real-World Complexity
 
 Even when the structure is correct, cooperation is shaped by deeper forces:
 
@@ -108,7 +108,7 @@ This layer answers:
 Extended Dynamics does not add new requirements.  
 It provides the **human context** needed to understand why cooperation deviates from the Core Model.
 
-## **System Modes — How to Use HCS Across the Lifecycle of Work**
+## System Modes — How to Use HCS Across the Lifecycle of Work
 
 Cooperation is not static.  
 Different stages of work require different systemic activities.  
