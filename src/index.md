@@ -6,7 +6,7 @@ A multi-modal operating system for understanding, designing, and stabilizing hum
 > The **Human Cooperation System (HCS)** defines the stable conditions and functions that make human cooperation possible.  
 > It reveals why alignment, trust, and flow break down — and provides a structure for restoring or improving them across different stages of work.
 
-# Introduction
+## Introduction
 
 Human cooperation is not powered by tools, talent, or methods alone.  
 It emerges from a deeper **system of shared meaning, aligned boundaries, trust, and coordinated decision-making**.
@@ -20,15 +20,15 @@ They start when the **system of cooperation** becomes unstable — when people i
 
 HCS helps teams **see and repair the system**, not just the symptoms.
 
-# Why HCS Exists
+## Why HCS Exists
 
 There are two parallel paths organizations use to solve collaboration problems:
 
-### **The Path of Encapsulation**  
+**The Path of Encapsulation**  
 Reducing friction by narrowing collaboration, separating responsibilities, and limiting interdependence.  
 Great for clear, predictable work — but brittle in complexity.
 
-### **The Path of Integration**  
+**The Path of Integration**  
 Managing friction through shared meaning, aligned boundaries, and transparent decision-making.  
 Necessary whenever work is ambiguous, cross-functional, political, or fast-changing.
 
@@ -36,7 +36,7 @@ Most teams unconsciously choose Encapsulation even when Integration is required 
 
 **HCS provides the architecture for choosing the right path, and the structure for governing both.**
 
-# Who It’s For
+## Who It’s For
 
 HCS is designed for anyone responsible for ensuring people can work together effectively:
 
@@ -47,7 +47,7 @@ HCS is designed for anyone responsible for ensuring people can work together eff
 
 If you are here from **3SF**, HCS is the **underlying system** that explains why engagement, delivery, and value succeed or fail.
 
-# Purpose of HCS
+## Purpose of HCS
 
 The Human Cooperation System is a **systemic model and decision structure** for:
 
@@ -70,11 +70,11 @@ It defines:
 
 Together, these form the **Systemic Basis of Work** — a way to understand and shape cooperation itself.
 
-# Structure of HCS
+## Structure of HCS
 
 HCS is organized into three architectural layers:
 
-## Core Model — The Physics of Cooperation
+### Core Model — The Physics of Cooperation
 
 The Core Model defines the stable, universal architecture of cooperation.
 
@@ -91,7 +91,7 @@ This includes:
 
 This layer is **framework-independent** and applies to all forms of human work.
 
-## Extended Human Dynamics — Real-World Complexity
+### Extended Human Dynamics — Real-World Complexity
 
 Even when the structure is correct, cooperation is shaped by deeper forces:
 
@@ -108,7 +108,7 @@ This layer answers:
 Extended Dynamics does not add new requirements.  
 It provides the **human context** needed to understand why cooperation deviates from the Core Model.
 
-## System Modes — How to Use HCS Across the Lifecycle of Work
+### System Modes — How to Use HCS Across the Lifecycle of Work
 
 Cooperation is not static.  
 Different stages of work require different systemic activities.  
@@ -123,18 +123,21 @@ HCS expresses these as **modes**:
 Each mode applies the Core Model differently depending on what the system needs  
 — **design**, **repair**, **evolution**, **restoration**, or **renewal**.
 
-# Reading Path
+## Reading Path
 
-### **Start with the Core Model**
+### Start with the Core Model
+
 1. **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)**  
 2. **[The Matrix](100-core-model/110-matrix.md)**  
 3. **[The Pyramid](100-core-model/120-pyramid.md)**  
 4. **[The Level Rule](100-core-model/130-level-rule.md)**  
 
-### **Continue with Extended Human Dynamics**  
+### Continue with Extended Human Dynamics
+
 Explore how human, political, and psychological forces distort or amplify cooperation.
 
-### **Move to System Modes**  
+### Move to System Modes
+
 Learn how to apply the system depending on work stage:
 
 - **Setup** (design)  
@@ -143,7 +146,7 @@ Learn how to apply the system depending on work stage:
 - **Conflict** (resolution)  
 - **Reset** (renewal)
 
-# Positioning
+## Positioning
 
 Think of HCS as a **cooperation operating system**:
 
