@@ -57,7 +57,3 @@ All **OFF**:
 ### **Actions**
 
 None.
-
----
-
-This file is intentionally minimal for configuration purposes.
